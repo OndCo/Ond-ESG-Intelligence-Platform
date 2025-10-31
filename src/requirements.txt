@@ -1,0 +1,7 @@
+tensorflow>=2.15
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+matplotlib==3.9.1
+seaborn==0.13.2
+joblib==1.4.2
