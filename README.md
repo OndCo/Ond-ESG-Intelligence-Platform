@@ -1,4 +1,4 @@
-### Global-ESG-Intelligence-Platform
+### Ond-ESG-Intelligence-Platform
 
  
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
