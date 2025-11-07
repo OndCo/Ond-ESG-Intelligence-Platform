@@ -1,8 +1,8 @@
 ### Ond-ESG-Intelligence-Platform
-### OSuite by Ond & Co  |  An NDIM Group Product
-**Omnind Inc.** ®  — Stock Ticker: NDIM  |  Domain: [nd.im](https://nd.im)
+### OSuite by Ond & Co®  |  An NDIM Group Product by Omnind Inc.
+**Omnind Inc.**   — Stock Ticker: NDIM  |  Domain: [nd.im](https://nd.im)
 
-Ond & Co is the technical brand and subsidiary of Omnind Inc., developing the Trust Layer for AI & Web3.  
+Ond & Co® is the technical brand and subsidiary of Omnind Inc., developing the Trust Layer for AI & Web3.  
 All Ond products are part of the NDIM Group ecosystem.
 
  
